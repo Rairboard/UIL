@@ -1,0 +1,27 @@
+13
+19 1 5
+X.X.X.X.XX......XX.
+19 5 1
+X.X.X.X.XX......XX.
+19 1000 1
+XXXXXXXXXXXXXXXXXXX
+19 1 1
+...................
+19 0 1
+XXXXXXXXXXXXXXXXXXX
+19 100 0
+XXXXXXXXXXXXXXXXXXX
+100 5 30
+XXXX.......X.XXXX.XX.X..XXX.X....XXXXXXX.....X.XX.XX........XXXX......XX.XXXXXXX...XXX....X.....XXXX
+100 5 30
+.XXX.......X.XXXX.XX.X..XXX.X....XXXXXXX.....X.XX.XX........XXXX......XX.XXXXXXX...XXX....X.....XXXX
+100 300 5
+XXXX.......X.XXXX.XX.X..XXX.X....XXXXXXX.....X.XX.XX........XXXX......XX.XXXXXXX...XXX....X.....XXXX
+100 30 500
+XXXX.......X.XX.........XXX.X....XXXXXXX.....X.XX.XX.....................XXXXXXX...XXX....X.....XXXX
+100 30 500
+XXXX...XX...X.XXXX.XX.X..XXX.X....XXXXXXX.....X.XX.XX...XX...XXXX......XX.XXXXXXX...XXX....X....XXXX
+100 30 500
+.......XX...X.XXXX.XX.X..XXX.X....XXXXXXX.....X.XX.XX...XX...XXXX......XX.XXXXXXX...XXX....X....XXXX
+100 0 0
+XXXX.......X.XXXX.XX.X..XXX.X....XXXXXXX.....X.XX.XX........XXXX......XX.XXXXXXX...XXX....X.....XXXX

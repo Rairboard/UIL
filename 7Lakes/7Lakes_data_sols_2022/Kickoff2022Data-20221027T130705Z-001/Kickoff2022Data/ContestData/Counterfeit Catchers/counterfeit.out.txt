@@ -1,0 +1,6 @@
+Sir, coin 3 is a counterfeit!
+Sir, coin 13 is a counterfeit!
+Sir, coin 3 is a counterfeit!
+Sir, coin 1 is a counterfeit!
+Sir, coin 2 is a counterfeit!
+Sir, coin 51 is a counterfeit!

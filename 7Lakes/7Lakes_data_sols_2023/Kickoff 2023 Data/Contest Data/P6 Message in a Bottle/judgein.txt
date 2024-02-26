@@ -1,0 +1,22 @@
+The quick brown fox jumps over the lazy dog
+10
+There## quick br#oown fox jumps over## ggthe lazyb# dog
+53
+The##ff quick br#oown fox jumps over## the lazy# dog in narnia lol
+54
+The quick brown fox jumps over the lazy dog
+20
+The# qui##ck br##own fox j#umps over th#e lazy d#og
+4
+The aquick# brh#y#own sffo#x ju#fmps over thd#e lazy d##jog
+55
+iidThe## quick br#own fox jum#pdsf# #over the lazy ##dog
+53
+The qui##ck bro#wn fox ju#mps o#ver the lazy dog######
+64
+The asdquick br#own fox jumps #over the lazy dog
+69
+The qudd#ick brown fox #jumps ov#er the la#z#y dog
+33
+The quif#ck brown fox #fjumps over u#the lazy dog
+100
