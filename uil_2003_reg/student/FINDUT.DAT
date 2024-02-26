@@ -1,0 +1,14 @@
+DATASET 5 
+4 Dallas Austin Houston SanAntonio
+Dallas SanAntonio 275
+Dallas Houston 238
+SanAntonio Austin 79
+Houston Austin 162
+DATASET 2 
+2 MyHouse YourHouse
+MyHouse YourHouse 1
+DATASET 4 
+3 MyHouse YourHouse Somewhere
+MyHouse YourHouse 300
+YourHouse Somewhere 100
+MyHouse Somewhere 100

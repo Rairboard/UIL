@@ -1,0 +1,106 @@
+DATABASE 1
+James 1000
+Marc 1000
+Tim 1000
+LOG
+Insert Laura 100
+Delete Tim
+Update Marc 500
+DATABASE 2
+Nochange 0
+LOG
+DATABASE 3
+LOG
+Insert Allnew 1
+DATABASE 4
+James 100
+LOG
+Insert Marc 100
+Insert Tim 0
+Update Tim 6000
+Update Marc 1000
+Delete Tim
+DATABASE 5
+LOG
+DATABASE 6
+LOG
+Insert Jerry 100
+Insert James 600
+Insert Bob 1000
+Insert Sarah -1000
+Insert Marc 9999
+Insert Zoey 2
+Update Sarah 500
+Delete Sarah
+Insert Sarah 500
+Update Sarah -1000
+DATABASE 7
+A 1
+B 2
+C 3
+D 4
+E 5
+F 6
+G 7
+H 8
+I 9
+J 10
+LOG
+Delete A
+Delete B
+Delete C
+Delete D
+Delete E
+Delete F
+Delete G
+Delete H
+Delete I
+Delete J
+DATABASE 8
+A 1
+B 2
+C 3
+D 4
+E 5
+F 6
+G 7
+H 8
+I 9
+J 10
+LOG
+Update A 10
+Update B 9
+Update C 8
+Update D 7
+Update E 6
+Update F 5
+Update G 4
+Update H 3
+Update I 2
+Update J 1
+DATABASE 9
+A 1
+B 2
+C 3
+D 4
+E 5
+F 6
+G 7
+H 8
+I 9
+J 10
+LOG
+Insert K -9999
+Insert L 9
+Insert M 8
+Insert N 7
+Insert O 6
+Insert P 5
+Insert Q 4
+Insert R 3
+Insert S 2
+Insert T 9999
+DATABASE 10
+LOG
+DATABASE 11
+LOG
