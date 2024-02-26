@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Abhinav Ashar_3n+1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Adrian Garcia_Liberties" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Andrew Chan_Lucky7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Brian Hoch_fancyMatrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bryan Nham_Adder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Corbin Poteet_DeathStar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dee-Dee_CatchThePig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Garve Hays_Cypher" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Grant Coalmer - FactorFact" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Grant Williams_Pyramid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kishan Solanki_Yeezy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Krish Suchdev_Quarterback" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Nick Montano_Zombies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rebecca Smith_Grader" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tyler Litzler_Derivative" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tyler Litzler_Ready" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Will Hudson_Mineshaft" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1.Poker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Cupcakeria" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Plus or Minus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.FreeLanes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15.MarbleProblem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16.How Bad is Brad's Dad" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.college" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Battleships" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.PrintTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.Slinky" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.cipher" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.IV Breeding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.PandorasBox" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9.Sands" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Alphabet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ethiopian Math" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EthiopianDivision" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NumberTrouble" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Password" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.Apple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.Checkout" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.CountCopyCat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.Elevator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.Hidden Missiles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.Poker 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.Stalls" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.Sudoku Solver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.thingcounter" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
