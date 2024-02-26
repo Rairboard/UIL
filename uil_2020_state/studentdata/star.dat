@@ -1,0 +1,15 @@
+6 6 2
+Kamino 234.5 -109.4 34.7
+Tatooine 927.43 85.34 -23.45
+Hoth -34.56 -45.67 43.21
+Geonosis -345.32 753.60 -456.03
+Jakku 78.43 333.33 444.55
+Endor 667.76 0.45 -1234.56
+Kamino Endor
+Jakku Endor
+Hoth Tatooine
+Geonosis Tatooine
+Kamino Hoth
+Tatooine Endor
+Kamino Tatooine
+Hoth Jakku
