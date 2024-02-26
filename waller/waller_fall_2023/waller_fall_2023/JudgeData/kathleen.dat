@@ -1,0 +1,53 @@
+5
+10 6
+a b c d e f g h i j
+e i
+g f
+e d
+g b
+i f
+a f
+10 16
+a b c d e f g h i j
+a j
+b c
+j f
+j b
+h i
+a i
+g i
+e h
+g f
+b f
+d i
+a b
+h h
+j g
+d a
+d j
+10 3
+a b c d e f g h i j
+c b
+j a
+b e
+10 6
+a b c d e f g h i j
+a f
+c d
+a h
+h b
+h h
+a j
+10 11
+a b c d e f g h i j
+i h
+a f
+f e
+a c
+f b
+i g
+e g
+b b
+a j
+b h
+b j
