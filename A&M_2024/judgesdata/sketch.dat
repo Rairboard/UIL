@@ -1,0 +1,15 @@
+1 5 3 true
+4 3 2 false
+0 4 0 false
+1 8 0 false
+0 8 1 false
+2 8 2 false
+3 8 3 false
+4 8 4 false
+1 8 0 true
+0 8 1 true
+2 8 2 true
+3 8 3 true
+4 8 5 true
+1 1 1 false
+
