@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CodeWars2015">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CodeWars/CodeWars2015/student_datasets.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CodeWars/CodeWars2015/SampleSolutions2015.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

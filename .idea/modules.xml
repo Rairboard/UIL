@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11.16.23_AS_Packet/11.16.23_AS_Packet.iml" filepath="$PROJECT_DIR$/11.16.23_AS_Packet/11.16.23_AS_Packet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/12.League/12.League.iml" filepath="$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/12.League/12.League.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/14.Serpentine Problem/14.Serpentine Problem.iml" filepath="$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/14.Serpentine Problem/14.Serpentine Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/2013_java.iml" filepath="$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/2013_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7Lakes/7Lakes_data_sols_2022/7Lakes_data_sols_2022.iml" filepath="$PROJECT_DIR$/7Lakes/7Lakes_data_sols_2022/7Lakes_data_sols_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7Lakes/7Lakes_data_sols_2023/7Lakes_data_sols_2023.iml" filepath="$PROJECT_DIR$/7Lakes/7Lakes_data_sols_2023/7Lakes_data_sols_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/Avengers/Avengers.iml" filepath="$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/Avengers/Avengers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/Cubic Scare/Cubic Scare.iml" filepath="$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/Cubic Scare/Cubic Scare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cy_woods_15/original_problems/Nathan Huckleberry_Diamond/Nathan Huckleberry_Diamond.iml" filepath="$PROJECT_DIR$/old_woods_packets/cy_woods_15/original_problems/Nathan Huckleberry_Diamond/Nathan Huckleberry_Diamond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trinity/Trinity.iml" filepath="$PROJECT_DIR$/Trinity/Trinity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIL.iml" filepath="$PROJECT_DIR$/UIL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USACO/USACO.iml" filepath="$PROJECT_DIR$/USACO/USACO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woods Contests/Woods Contests.iml" filepath="$PROJECT_DIR$/Woods Contests/Woods Contests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/afterschool_2.12/afterschool_2.12.iml" filepath="$PROJECT_DIR$/afterschool_2.12/afterschool_2.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cy_woods_15/cy_woods_15.iml" filepath="$PROJECT_DIR$/old_woods_packets/cy_woods_15/cy_woods_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cywoods_2014/cywoods_2014.iml" filepath="$PROJECT_DIR$/old_woods_packets/cywoods_2014/cywoods_2014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cy_woods_15/original_problems/original_problems.iml" filepath="$PROJECT_DIR$/old_woods_packets/cy_woods_15/original_problems/original_problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2009_reg/uil_2009_reg.iml" filepath="$PROJECT_DIR$/uil_2009_reg/uil_2009_reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2010_dist/uil_2010_dist.iml" filepath="$PROJECT_DIR$/uil_2010_dist/uil_2010_dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2011_reg/uil_2011_reg.iml" filepath="$PROJECT_DIR$/uil_2011_reg/uil_2011_reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2014_invB/uil_2014_invB.iml" filepath="$PROJECT_DIR$/uil_2014_invB/uil_2014_invB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2015_invA/uil_2015_invA.iml" filepath="$PROJECT_DIR$/uil_2015_invA/uil_2015_invA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2017_invA/uil_2017_invA.iml" filepath="$PROJECT_DIR$/uil_2017_invA/uil_2017_invA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2017_reg/uil_2017_reg.iml" filepath="$PROJECT_DIR$/uil_2017_reg/uil_2017_reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2018_invB/uil_2018_invB.iml" filepath="$PROJECT_DIR$/uil_2018_invB/uil_2018_invB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2018_reg/uil_2018_reg.iml" filepath="$PROJECT_DIR$/uil_2018_reg/uil_2018_reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2018_state/uil_2018_state.iml" filepath="$PROJECT_DIR$/uil_2018_state/uil_2018_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2019_dist/uil_2019_dist.iml" filepath="$PROJECT_DIR$/uil_2019_dist/uil_2019_dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2019_invB/uil_2019_invB.iml" filepath="$PROJECT_DIR$/uil_2019_invB/uil_2019_invB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2019_reg/uil_2019_reg.iml" filepath="$PROJECT_DIR$/uil_2019_reg/uil_2019_reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2020_invA/uil_2020_invA.iml" filepath="$PROJECT_DIR$/uil_2020_invA/uil_2020_invA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2020_invB/uil_2020_invB.iml" filepath="$PROJECT_DIR$/uil_2020_invB/uil_2020_invB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2020_state/uil_2020_state.iml" filepath="$PROJECT_DIR$/uil_2020_state/uil_2020_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2021_invA/uil_2021_invA.iml" filepath="$PROJECT_DIR$/uil_2021_invA/uil_2021_invA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2024_invA/uil_2024_invA.iml" filepath="$PROJECT_DIR$/uil_2024_invA/uil_2024_invA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uil_2024_invB/uil_2024_invB.iml" filepath="$PROJECT_DIR$/uil_2024_invB/uil_2024_invB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waller/waller_fall_2023/waller_fall_2023.iml" filepath="$PROJECT_DIR$/waller/waller_fall_2023/waller_fall_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waller/waller_spring_2023/waller_spring_2023.iml" filepath="$PROJECT_DIR$/waller/waller_spring_2023/waller_spring_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/z.Game Summary/z.Game Summary.iml" filepath="$PROJECT_DIR$/old_woods_packets/cywoods_2013/2013_java/z.Game Summary/z.Game Summary.iml" />
+    </modules>
+  </component>
+</project>

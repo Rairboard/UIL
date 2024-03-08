@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TompkinsMarch2014">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tompkins/TompkinsMarch2014/Student.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Tompkins/TompkinsMarch2014/Judge.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

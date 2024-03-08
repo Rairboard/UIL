@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CodeQuest2018">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CodeQuest/CodeQuest2018/JudgingOutputs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CodeQuest/CodeQuest2018/JudgingInputs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

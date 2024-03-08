@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="2022_A">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/uil_2022_all/2022_A/A2022JudgeData-20220118T164032Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/uil_2022_all/2022_A/A2022StudentData-20220118T164037Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/uil_2022_all/2022_A/A2022Solutions-20220118T164044Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/uil_2022_all/2022_A/A2022Solutions_JudgeData_OutFiles-20220118T164140Z-001.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

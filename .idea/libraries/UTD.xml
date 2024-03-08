@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="UTD">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UTD/Data_4_7_18.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_11_9_13.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_11_13_10.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/JudgesDataHSContest_4_1_17.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_4_13_13.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_4_14_12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_11_8_14.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_2_26_11.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_11_3_12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/HSContestData_3_21_15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/JudgesData_10_28_17.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTD/Data_11_5_11.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
