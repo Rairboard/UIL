@@ -1,0 +1,40 @@
+12 14 13
+Kamino 234.5 -109.4 34.7
+Tatooine 927.43 85.34 -23.45
+Hoth -34.56 -45.67 43.21
+Geonosis -345.32 753.60 -456.03
+Jakku 78.43 333.33 444.55
+Endor 667.76 0.45 -1234.56
+Coruscant 1023.54 -759.34 159.73
+Mustafar -34.57 498.08 -753.22
+Bespin -975.46 -75.09 -212.12
+Dagobah -2076.34 1647.32 -1098.34
+Naboo 45.89 -32.89 3.92
+Utapau 324.56 485.74 758.32
+Kamino Endor
+Jakku Endor
+Hoth Tatooine
+Geonosis Tatooine
+Kamino Hoth
+Tatooine Endor
+Dagobah Coruscant
+Naboo Coruscant
+Bespin Mustafar
+Utapau Jakku
+Tatooine Utapau
+Naboo Hoth
+Endor Coruscant
+Bespin Geonosis
+Kamino Tatooine
+Hoth Jakku
+Utapau Kamino
+Naboo Mustafar
+Bespin Jakku
+Coruscant Geonosis
+Endor Bespin
+Dagobah Kamino
+Jakku Hoth
+Bespin Tatooine
+Naboo Naboo
+Naboo Endor
+Naboo Geonosis
