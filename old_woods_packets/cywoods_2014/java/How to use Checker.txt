@@ -1,0 +1,4 @@
+To use checker copy Checker.class to the folder where you have your solution.
+Hold shift and right click on empty space in the folder. Choose "Open command window here".
+Type "java (Your solution's class name here) >> mine.txt" without the quotes, and press enter.
+Type "java Checker (judges output file name here) mine.txt" without the quotes and press enter.

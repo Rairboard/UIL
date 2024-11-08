@@ -1,0 +1,36 @@
+3
+16 20 25
+XXXXXXXXXXXXXXXXXXXX
+XXXXXX        XXXXXX
+XXX             XXXX
+XX  S             XX
+X    XX      XX    X
+X    XX      XX    X
+X      XXG XX      X
+X        XX        X
+X        XX        X
+X      XXD XX      X
+X    XX      XX    X
+X    XX      XX    X
+XX          E     XX
+XXXX            XXXX
+XXXXXX        XXXXXX
+XXXXXXXXXXXXXXXXXXXX
+8 5 8
+XXXXX
+XD  X
+X  EX
+XXXXX
+XXXXX
+XG  X
+X  SX
+XXXXX
+8 5 11
+XXXXX
+X   X
+X  EX
+X  XX
+X   X
+XX  X
+X  SX
+XXXXX

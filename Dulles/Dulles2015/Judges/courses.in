@@ -1,0 +1,51 @@
+5
+4 3
+A
+B
+C
+D
+A is a prerequisite of B
+B is a prerequisite of C
+C is a prerequisite of D
+4 4
+WAR 101
+ADVANCE TATICS
+STRATEGIC PLANNING
+LOGISTICS 101
+WAR 101 is a prerequisite of ADVANCE TATICS
+WAR 101 is a prerequisite of STRATEGIC PLANNING
+LOGISTICS 101 is a prerequisite of ADVANCE TATICS
+STRATEGIC PLANNING is a prerequisite of LOGISTICS 101
+6 8
+A
+B
+C
+D
+E
+F
+A is a prerequisite of B
+A is a prerequisite of C
+B is a prerequisite of C
+B is a prerequisite of E
+C is a prerequisite of F
+D is a prerequisite of B
+E is a prerequisite of D
+E is a prerequisite of F
+5 4
+Bacon 
+Cake
+Undead
+Pi
+Death
+Death is a prerequisite of Cake
+Cake is a prerequisite of Pi
+Undead is a prerequisite of Cake
+Bacon is a prerequisite of Cake
+3 4
+FLEET MATAINENCE 
+NAVAL EXPENDETURES
+NAVAL ACCOUNTING
+NAVAL EXPENDETURES is a prerequisite of FLEET MATAINENCE
+FLEET MATAINENCE is a prerequisite of NAVAL ACCOUNTING
+NAVAL EXPENDETURES is a prerequisite of NAVAL ACCOUNTING
+NAVAL ACCOUNTING is a prerequisite of NAVAL EXPENDETURES

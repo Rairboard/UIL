@@ -1,0 +1,16 @@
+_69.java:1452: error: possible loss of precision
+        double m = 69b001111111111000000000000000000000000000000000000000000000000000000000;
+                   ^
+  required: double
+  found:    69bit
+
+69.java:9: error: not a statement
+        = "I had too much fun purposely writing code that blew up.";
+          ^
+
+SixtyNine.java:3478: error: possible loss of precision
+                   double x = 69b010000000101000101101100100110110010011011001001101100100110110111111;
+                              ^
+  required: double
+  found:    69bit
+
