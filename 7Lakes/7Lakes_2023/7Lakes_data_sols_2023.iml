@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P1 Coasting on the High Seas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P10 Crew Morale" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P11 Polly Wanna Cracker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P12 Shipbuilding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P13 Send for the Armada" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P14 Quartermaster" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P15 Navigating the Stroudonian Seas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P16 Why Did I Take German_" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P17 Rough Seas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P18 Hoist the Mizzenmast!" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P2 The Pirate Jimmy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P3 Mutiny on the High Seas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P4 X Marks the Spot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P5 Hit the Rack!" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P6 Message in a Bottle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P7 We_re In For Some Chop!" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P8 Cannonball Run" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kickoff 2023 Data/Solutions/P9 Infinite Pirate Theorem" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

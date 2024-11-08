@@ -1,0 +1,11 @@
+We can make it in 4 steps with 2 bombs!
+We can make it in 1 step with 0 bombs!
+We can make it in 2 steps with 1 bomb!
+We can make it in 2 steps with 1 bomb!
+We can make it in 3 steps with 2 bombs!
+We cannot make it...
+We can make it in 411 steps with 4803 bombs!
+We cannot make it...
+We cannot make it...
+We can make it in 410 steps with 0 bombs!
+We can make it in 104 steps with 9698 bombs!

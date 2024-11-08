@@ -1,0 +1,8 @@
+1
+6 3
+Potter 2
+Skywalker 7
+Fett 8
+Rodgers -5
+Parker -1
+Stark 9

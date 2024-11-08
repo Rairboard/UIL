@@ -1,0 +1,4 @@
+500 3
+Stroud Captain 3
+Nutt Navigator 1
+Castillo Quartermaster 1
