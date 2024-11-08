@@ -1,0 +1,14 @@
+The Space Station Freedom Fire Suppression System system must be purged with
+Nitrogen during a Daily Maintenance Cycle.
+Seepage past the Nitrogen dispersal nozzle
+allows a buildup of
+Oxygen in the Fire Suppression System feeder
+lines. When the Smoke/Fire, Rapid Depression, and Toxic Atmosphere detection system
+issues a Fire/Smoke Detected Caution and Warning to Fault Detection, Isolation, and Recovery, a command is issued to the Fire Suppression System
+to disperse Nitrogen to
+the Affected Region. If the Fire Suppression System lines have not been
+purged, the fire will be fanned with
+Oxygen instead of being extinguished with Nitrogen leading to a possible
+Loss of Crew and Vehicle event.
+I really enjoyed working on the System Management Computer Software Configuration Item for International Business Machines Incorporated
+on the National Aeronautics and Space Administration Space Station Freedom.

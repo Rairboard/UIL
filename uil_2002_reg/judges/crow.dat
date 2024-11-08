@@ -1,0 +1,110 @@
+4
+6 5
+Northpole 90 N 87 E
+Southpole 90 S 180 W
+Equatorone 0 N 45 W
+Equatortwo 0 S 90 E
+Equatorthree 0 S 180 E
+Equatorfour 0 N 46 W
+Equatorone Equatortwo
+Equatortwo Equatorthree
+Equatorthree Equatorfour
+Northpole Equatortwo
+Southpole Equatorthree
+2 1
+Northpole 90 N 0 E
+Southpole 90 S 0 W
+Southpole Northpole
+39 38
+EquatorA 0 N 0 E
+EquatorB 0 N 20 E
+EquatorC 0 N 40 E
+EquatorD 0 N 60 E
+EquatorE 0 N 80 E
+EquatorF 0 N 100 E
+EquatorG 0 N 120 E
+EquatorH 0 N 140 E
+EquatorI 0 N 160 E
+EquatorJ 0 N 180 E
+EquatorK 0 N 20 W
+EquatorL 0 N 40 W
+EquatorM 0 N 60 W
+EquatorN 0 N 80 W
+EquatorO 0 N 100 W
+EquatorP 0 N 120 W
+EquatorQ 0 N 140 W
+EquatorR 0 N 160 W
+EquatorY 0 N 145 W
+EquatorZ 0 N 165 W
+MidNorthHemA 45 N 0 E
+MidNorthHemB 45 N 20 E
+MidNorthHemC 45 N 40 E
+MidNorthHemD 45 N 60 E
+MidNorthHemE 45 N 80 E
+MidNorthHemF 45 N 100 E
+MidNorthHemG 45 N 120 E
+MidNorthHemH 45 N 140 E
+MidNorthHemI 45 N 160 E
+MidNorthHemJ 45 N 180 E
+MidNorthHemK 45 N 20 W
+MidNorthHemL 45 N 40 W
+MidNorthHemM 45 N 60 W
+MidNorthHemN 45 N 80 W
+MidNorthHemO 45 N 100 W
+MidNorthHemP 45 N 120 W
+MidNorthHemQ 45 N 140 W
+MidNorthHemR 45 N 160 W
+Northpole 90 N 0 E
+Northpole MidNorthHemA
+Northpole MidNorthHemB
+Northpole MidNorthHemC
+Northpole MidNorthHemD
+Northpole MidNorthHemE
+Northpole MidNorthHemF
+Northpole MidNorthHemG
+Northpole MidNorthHemH
+Northpole MidNorthHemI
+Northpole MidNorthHemJ
+Northpole MidNorthHemK
+Northpole MidNorthHemL
+Northpole MidNorthHemM
+Northpole MidNorthHemN
+Northpole MidNorthHemO
+Northpole MidNorthHemP
+Northpole MidNorthHemQ
+Northpole MidNorthHemR
+MidNorthHemA EquatorA
+MidNorthHemB EquatorB
+MidNorthHemC EquatorC
+MidNorthHemD EquatorD
+MidNorthHemE EquatorE
+MidNorthHemF EquatorF
+MidNorthHemG EquatorG
+MidNorthHemH EquatorH
+MidNorthHemI EquatorI
+MidNorthHemJ EquatorJ
+MidNorthHemK EquatorK
+MidNorthHemL EquatorL
+MidNorthHemM EquatorM
+MidNorthHemN EquatorN
+MidNorthHemO EquatorO
+MidNorthHemP EquatorP
+MidNorthHemQ EquatorQ
+MidNorthHemR EquatorR
+EquatorQ EquatorY
+EquatorR EquatorZ
+7 7
+CzechRepublic 50 N 14 E
+BeijingChina 39 N 116 E
+NewOrleans 29 N 90 W
+NewYork 40 N 73 W
+OklahomaCity 35 N 97 W
+Houston 29 N 95 W
+LasVegas 36 N 115 W
+CzechRepublic BeijingChina
+BeijingChina LasVegas
+Houston NewOrleans
+Houston NewYork
+Houston OklahomaCity
+OklahomaCity LasVegas
+NewOrleans NewYork

@@ -1,0 +1,3 @@
+/subdir1/subdir2 /./subdir1/../subdir1
+/subdir1/subdir2/subdir3 /././././subdir1/subdir2/subdir3/../../subdir2
+/subdir1/subdir2/subdir3 /././././subdir1/subdir2/subdir3/../../subdir3

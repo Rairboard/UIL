@@ -1,0 +1,14 @@
+DATABASE 1
+James 1000
+Marc 1000
+Tim 1000
+LOG
+Insert Laura 100
+Delete Tim
+Update Marc 500
+DATABASE 2
+Nochange 0
+LOG
+DATABASE 3
+LOG
+Insert Allnew 1

@@ -1,0 +1,20 @@
+Mr. Michael Zimm
+1234 Namovur Street
+Asity, Texas 78923
+
+This is a simple e-mail with 3 addresses in it.  However, your program
+will only pick up on a couple of them.  For example, your program would
+never be able to distinguish a line that had too many characters.  In fact,
+Dr. Michaels, you cannot be assured that you will find all addresses no
+matter how much you try.  Without the power of simple human intelligence,
+I doubt if you will find even half of them.
+
+Sincerely,
+
+Mrs. Ima Hogg
+2 Wiggs Way
+Garland, Texas 77049
+
+
+
+
