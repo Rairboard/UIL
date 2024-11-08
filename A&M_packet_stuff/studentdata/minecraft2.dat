@@ -1,0 +1,21 @@
+10 3
+1 Dispenser: 1 Bow, 1 Redstone_Dust, 7 Cobblestone
+1 Bow: 3 Stick, 3 String
+2 Stick: 3 Wood_Plank
+4 Wood_Plank: 1 Wood
+1 Piston: 1 Redstone_Dust, 3 Wood_Plank, 1 Iron_Ingot, 4 Cobblestone
+1 Sticky_Piston: 1 Piston, 1 Slimeball
+1 Minecart: 5 Iron_Ingot
+1 Hopper: 1 Chest, 5 Iron_Ingot
+1 Chest: 8 Wood_Plank
+1 Hopper_Minecart: 1 Hopper, 1 Minecart
+Dispenser 3 4
+4 Wood
+4 String
+12 Cobblestone
+6 Redstone_Dust
+Sticky_Piston 4 2
+2 Slimeball
+6 Iron_Ingot
+Hopper_Minecart 1 1
+4 Iron_Ingot
