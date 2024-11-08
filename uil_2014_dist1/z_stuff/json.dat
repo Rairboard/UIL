@@ -1,0 +1,18 @@
+17
+cake.ingredient = sugar
+print(cake)
+cake.bake = oven
+print(cake)
+dog.treat = bone
+print(dog)
+boat.type = sailboat
+boat.length = 33
+boat.color = white
+boat.year = 1968
+print(boat)
+uil.topic = CS
+uil.test = 40_MC
+uil.packet = 12
+uil.topScore = 1440
+uil.status = CS_Rocks!!
+print(uil)

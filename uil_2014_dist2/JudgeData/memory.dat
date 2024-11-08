@@ -1,0 +1,40 @@
+3
+3 5
+abc1 21 98
+jhljhkj 423 423
+abkik4 98 423
+abc1
+&jhljhkj
+*jhljhkj
+&abkik4
+abkik4
+6 6
+joe 15 154
+jklin 125 8909
+hkaf 11253 125
+tfgiy 154 15
+sdjskdaf 72394 72394
+oijok 27349 72394
+joe
+&tfgiy
+*hkaf
+hkaf
+*sdjskdaf
+&oijok
+8 8
+a 1 2
+b 3 4
+c 5 6
+d 2 3
+e 6 1
+f 4 5
+g 7 7
+h 56 457
+h
+&h
+*b
+a
+&c
+*d
+e
+f

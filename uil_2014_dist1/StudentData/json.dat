@@ -1,0 +1,7 @@
+6
+cake.ingredient = sugar
+print(cake)
+cake.bake = oven
+print(cake)
+dog.treat = bone
+print(dog)
