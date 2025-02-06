@@ -25,10 +25,13 @@ public class finiteknapsack
 			file.nextLine();
 			int[] weights = new int[sa1.length]; //stores the weights of each value
 			int[] values = new int[sa2.length]; // stores the coin value
+
 			for(int i = 0; i < sa1.length; i++) weights[i] = Integer.parseInt(sa1[i]);
 			for(int i = 0; i < sa2.length; i++) values[i] = Integer.parseInt(sa2[i]);
+
 			int[][] dp = new int[weights.length+1][most+1];
 			//each row in the knapsack represents the value in the position r-1 in the value array and each column represents the weight you are attempting to find the maximum for
+
 			//we start the loops at (1,1) because you cannot have any value if the weight allowed is 0 or if the coin/value you are using is 0
 			for(int r = 1; r < dp.length; r++)
 			{
