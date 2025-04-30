@@ -1,0 +1,9 @@
+6
+Aba
+Abba
+blab	
+baa	
+This is a palindrome
+toot
+tot
+

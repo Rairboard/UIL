@@ -1,0 +1,31 @@
+3
+4
+Northwest quarter of Section 100
+Southwest quarter of Section 100
+Northeast quarter of Section 100
+Southeast quarter of Section 100
+4
+Northwest quarter of Northwest quarter of Section 100
+Southwest quarter of Northwest quarter of Section 100
+Northeast quarter of Northwest quarter of Section 100
+Southeast quarter of Northwest quarter of Section 100
+19
+Northwest quarter of Section 100
+Southwest quarter of Section 101
+Northwest quarter of Northeast quarter of Section 301
+Northwest quarter of Northwest quarter of Section 302
+Northeast quarter of Section 101
+Northwest quarter of Section 102
+Northwest quarter of Southeast quarter of Section 100
+Southeast quarter of Northwest quarter of Section 200
+Southeast quarter of Section 200
+Southwest quarter of Southwest quarter of Section 100
+Southeast quarter of Section 201
+Northwest quarter of Northwest quarter of Section 301
+Southwest quarter of Section 202
+Northwest quarter of Northwest quarter of Section 300
+Southwest quarter of Northeast quarter of Section 102
+Southwest quarter of Section 201
+Northwest quarter of Northwest quarter of Section 200
+Northwest quarter of Northeast quarter of Section 300
+Northwest quarter of Northeast quarter of Section 302
